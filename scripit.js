@@ -10,4 +10,4 @@ const data = {
 }
 
 nlwSetup.setData(data)
-nlwSetup.loud()
+nlwSetup.load()
