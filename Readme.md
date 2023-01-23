@@ -33,7 +33,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habist é um app para ajudar a rastrearos habitos.
+O Habist é um app para ajudar a rastrearos hábitos.
+
+-[Visite o projeto online](https://barbarathomazelli.github.io/NLW)
 
 
 
